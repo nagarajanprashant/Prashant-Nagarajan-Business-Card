@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Nagarajan;Prashant;;;
+FN:Prashant Nagarajan
+ORG:Collaborus
+TITLE:Partner
+TEL;TYPE=CELL,VOICE:+61421713460
+EMAIL;TYPE=INTERNET:hello@collaborus.com.au
+URL:https://collaborus.com.au
+END:VCARD
